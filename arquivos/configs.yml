@@ -1,0 +1,61 @@
+#####################################################################################
+# Devloped by GiverPlay007 </>														#
+# Depende do ChestCommands para funcionar!											#
+# Commandos : Permission															#
+# /palito [modernalworld.palito.info]												#
+# /palito executar (ban, kick, tempban)[modernalworld.palito.executar]				#
+# /palito motivo <ban, kick, tempban> <motivo> [modernalworld.palito.motivo]		#
+# 																					#
+# /rec : modernalworld.rec.menu														#
+#        modernalworld.rec.palito													#
+#        modernalworld.rec.<>														#
+#																					#
+# /falar : modernalworld.falar														#
+#																					#
+# /autosellal : modernalworld.autosellall											#
+#																					#
+# /reparar : modernalworld.reparar													#
+# 																					#
+# Placa Coloria : modernalworld.placacolorida										#
+#																					#
+# /desabilitarplugin : modernalworld.plugins										#
+# /habilitarplugin : modernalworld.plugins											#
+#																					#
+# /console : modernalworld.console													#
+# /gsudo : modernalworld.gsudo														#
+#																					#
+# /cargo : modernalworld.cargo														#
+#																					#
+# /mito set : modernalworld.mito													#
+#																					#
+# /traduzir : modernalworld.traduzir												#
+#																					#
+# /tpa       :																		#
+# /tpaceitar : modernalworld.tpa													#
+# /tpnegar   : 																		#
+#																					#
+# /cash																				#
+#       <add>       modernalworld.cash												#
+#       <remove>    modernalworld.cash												#
+#       <set>     : modernalworld.cash												#
+#		<pay>																		#
+#####################################################################################
+pvp:
+  killer_camarote: '/killer camarote'
+  x1_camarote: '/x1 camarote'
+  gladiador_camarote: '/gladiador camarote'
+  chain_camarote: '/warp chain'
+  fight_camarote: '/fight camarote'
+  loja: '/loja'
+  chain_entrar: '/chain entrar'
+
+tags:
+  mito: 'GiverPlay007'
+  magnata: 'GiverPlay007'
+  
+ cash:
+   sql: '144.217.49.253'
+   port: '3306'
+   user: 'rh5835'
+   pass: '709445f526'
+   db: 'rh5835'
